@@ -24,7 +24,7 @@ Enjoy working on deep learning, automation, and research-based programming acros
 
 ## Social
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=black)](https://www.kaggle.com/kautilya91)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/kautilya91)
 
 ## Interests
 - Artificial Intelligence
@@ -35,9 +35,10 @@ Enjoy working on deep learning, automation, and research-based programming acros
 
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg&layout=compact) 
+![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg&layout=compact&theme=tokyonight) 
 
 
 <!--

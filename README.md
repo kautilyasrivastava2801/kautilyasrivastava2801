@@ -15,7 +15,7 @@ Enjoy working on deep learning, automation, and research-based programming acros
 
 ## Tools
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=red)
+![PyTorch](https://img.shields.io/badge/PyTorch-pink?logo=pytorch&logoColor=red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-yellow?logo=opencv&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas&logoColor=white)

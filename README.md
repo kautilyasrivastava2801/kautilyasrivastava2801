@@ -34,9 +34,9 @@ Enjoy working on deep learning, automation, and research-based programming acros
 
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg&layout=compact) 
 
 
 <!--

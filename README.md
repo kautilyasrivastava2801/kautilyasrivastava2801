@@ -11,6 +11,7 @@ Enjoy working on deep learning, automation, and research-based programming acros
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?logo=python&logoColor=white)
 
 
 ## Tools

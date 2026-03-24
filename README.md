@@ -13,14 +13,17 @@ Enjoy working on deep learning, automation, and research-based programming acros
 ![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
 
 
-## Tools & Technologies
+## Tools
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-yellow?logo=opencv&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=purple)
-![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=blue)
+
+## Social
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/kautilya91)
 
 ## Interests
 - Artificial Intelligence

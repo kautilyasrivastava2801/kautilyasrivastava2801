@@ -33,9 +33,17 @@ Enjoy working on deep learning, automation, and research-based programming acros
 
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kautilya-srivastava9-svg&show_icons=true&theme=tokyonight&border_radius=10" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kautilya-srivastava9-svg-1810&theme=tokyonight&border_radius=10" height="160"/> </p>
+![Kautilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kautilyasrivastava9-svg&theme=tokyonight&hide_border=true)
+
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg&layout=compact&theme=tokyonight&hide_border=true)
 
 
 <!--

@@ -16,9 +16,9 @@
 
 ### 🧠 AI • 🤖 Robotics • ⚛️ Nanotech
 
-🚀 Building intelligent systems at the intersection of science & technology
-📊 Exploring deep learning, computer vision & scientific computing
-🎯 Mission: Innovate, Research, and Create Future-Tech Solutions
+🚀 Building intelligent systems at the intersection of science & technology  
+📊 Exploring deep learning, computer vision & scientific computing  
+🎯 Mission: Innovate, Research, and Create Future-Tech Solutions  
 
 ---
 
@@ -26,36 +26,34 @@
 
 ### 🧑‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-green?logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white)
 
 ### 🛠️ Tools & Frameworks
 
-![PyTorch](https://img.shields.io/badge/PyTorch-pink?logo=pytorch\&logoColor=red)
-![OpenCV](https://img.shields.io/badge/OpenCV-yellow?logo=opencv\&logoColor=blue)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy\&logoColor=yellow)
-![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?logo=git\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-pink?logo=pytorch&logoColor=red)
+![OpenCV](https://img.shields.io/badge/OpenCV-yellow?logo=opencv&logoColor=blue)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
 
 ---
 
-
-
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kautilyasrivastava9-svg\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kautilyasrivastava2801&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🐍 Contribution 
 
-![Snake animation](https://raw.githubusercontent.com/kautilyasrivastava9-svg/kautilyasrivastava9-svg/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kautilyasrivastava2801/kautilyasrivastava2801/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🌐 Connect
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle\&logoColor=white)](https://www.kaggle.com/kautilya91)
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/kautilya91)
 
 ---
 

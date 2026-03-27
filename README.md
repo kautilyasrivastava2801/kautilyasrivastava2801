@@ -1,58 +1,69 @@
+<!-- 🧠 AI HEADER + DREAMY TYPING -->
 
-# Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=E6A4B4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kautilya+Srivastava;AI%2FRobotics+Researcher+in+the+Making;Building+the+Future+☄️;Code.+Create.+Conquer." />
+</p>
 
-## Bio
-Curious about the intersection of Artificial Intelligence, Robotics, Biology, and Nanotechnology.  
-Interested in building intelligent systems, computer vision models, and scientific computing projects.  
+<!-- 🌸 SOFT AI HEADER -->
 
-Enjoy working on deep learning, automation, and research-based programming across multiple fields of science and technology.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8DC,50:D8B4F8,100:E6A4B4&height=120&section=header"/>
+</p>
 
+---
 
-## Languages
-![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?logo=python&logoColor=white)
+# 👋 Hi, I'm Kautilya Srivastava
 
+### 🧠 AI • 🤖 Robotics • ⚛️ Nanotech
 
-## Tools
+🚀 Building intelligent systems at the intersection of science & technology
+📊 Exploring deep learning, computer vision & scientific computing
+🎯 Mission: Innovate, Research, and Create Future-Tech Solutions
 
-![PyTorch](https://img.shields.io/badge/PyTorch-pink?logo=pytorch&logoColor=red)
-![OpenCV](https://img.shields.io/badge/OpenCV-yellow?logo=opencv&logoColor=blue)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=yellow)
-![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=purple)
+---
 
-## Social
+## ⚡ Tech Stack
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/kautilya91)
+### 🧑‍💻 Languages
 
-## Interests
-- Artificial Intelligence
-- Robotics
-- Biology / Medicine
-- Nanotechnology
+![Python](https://img.shields.io/badge/Python-green?logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus\&logoColor=white)
 
+### 🛠️ Tools & Frameworks
 
+![PyTorch](https://img.shields.io/badge/PyTorch-pink?logo=pytorch\&logoColor=red)
+![OpenCV](https://img.shields.io/badge/OpenCV-yellow?logo=opencv\&logoColor=blue)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy\&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?logo=git\&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=60)
+
+## 🚀 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=60)
+
+---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kautilyasrivastava9-svg&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kautilyasrivastava9-svg\&theme=tokyonight\&hide_border=true)
 
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-<!--
-**kautilyasrivastava9-svg/kautilyasrivastava9-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Contribution Snake
 
-Here are some ideas to get you started:
+![Snake animation](https://github.com/kautilyasrivastava9-svg/kautilyasrivastava9-svg/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle\&logoColor=white)](https://www.kaggle.com/kautilya91)
+
+---
+

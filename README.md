@@ -41,11 +41,7 @@ Enjoy working on deep learning, automation, and research-based programming acros
 ![GitHub Streak](https://streak-stats.demolab.com?user=kautilyasrivastava9-svg&theme=tokyonight&hide_border=true)
 
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60)
-
-## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60)
+![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 <!--
 **kautilyasrivastava9-svg/kautilyasrivastava9-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

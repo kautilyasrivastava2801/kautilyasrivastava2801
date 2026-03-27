@@ -55,9 +55,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
-![Snake animation](https://github.com/kautilyasrivastava9-svg/kautilyasrivastava9-svg/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kautilyasrivastava9-svg/kautilyasrivastava9-svg/output/github-contribution-grid-snake.svg)
 
 ---
 

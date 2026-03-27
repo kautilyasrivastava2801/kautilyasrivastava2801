@@ -39,15 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg\&show_icons=true\&theme=tokyonight\&hide_border=true\&cache_seconds=60)
-
-## 🚀 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg\&layout=compact\&theme=tokyonight\&hide_border=true\&cache_seconds=60)
-
----
 
 ## 🔥 Streak Stats
 

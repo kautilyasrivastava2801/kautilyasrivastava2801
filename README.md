@@ -35,8 +35,7 @@ Enjoy working on deep learning, automation, and research-based programming acros
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true&theme=tokyonight)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kautilyasrivastava9-svg&show_icons=true&theme=tokyonight&border_radius=10" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh-Prakash-Sinha-1810&theme=tokyonight&border_radius=10" height="160"/> </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kautilyasrivastava9-svg&layout=compact&theme=tokyonight) 
 
 

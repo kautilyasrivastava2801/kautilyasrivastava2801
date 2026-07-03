@@ -21,13 +21,22 @@
 
 ### 🛠️ Tools & Frameworks
 
-![PyTorch](https://img.shields.io/badge/PyTorch-pink?logo=pytorch&logoColor=red)
-![OpenCV](https://img.shields.io/badge/OpenCV-yellow?logo=opencv&logoColor=blue)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=yellow)
-![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
-![BioPython](https://img.shields.io/badge/BioPython-yellow?logo=python&logoColor=blue)
-![SciPy](https://img.shields.io/badge/SciPy-blue?logo=scipy&logoColor=white)
+
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PyTorch-pink?logo=pytorch&logoColor=red" alt="PyTorch"></td>
+    <td><img src="https://img.shields.io/badge/OpenCV-yellow?logo=opencv&logoColor=blue" alt="OpenCV"></td>
+    <td><img src="https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=yellow" alt="NumPy"></td>
+    <td><img src="https://img.shields.io/badge/Pandas-lightpink?logo=pandas&logoColor=white" alt="Pandas"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-red?logo=git&logoColor=white" alt="Git"></td>
+    <td><img src="https://img.shields.io/badge/BioPython-yellow?logo=python&logoColor=blue" alt="BioPython"></td>
+    <td><img src="https://img.shields.io/badge/SciPy-blue?logo=scipy&logoColor=white" alt="SciPy"></td>
+    <td></td> </tr>
+</table>
 
 ---
 

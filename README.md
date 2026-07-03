@@ -1,15 +1,4 @@
-<!-- 🧠 AI HEADER + DREAMY TYPING -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=E6A4B4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kautilya+Srivastava;AI%2FRobotics+Researcher+in+the+Making;Building+the+Future+☄️;Code.+Create.+Conquer." />
-</p>
-
-<!-- 🌸 SOFT AI HEADER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8DC,50:D8B4F8,100:E6A4B4&height=120&section=header"/>
-</p>
-
+![Demon Slayer Banner](https://media.tenor.com/D_bTjL76z1kAAAAd/demon-slayer-akaza.gif)
 ---
 
 ## ⚡ Tech Stack

@@ -1,7 +1,7 @@
 <p align="center">
   <img src="demon-slayer-akaza.gif" width="100%" alt="Demon Slayer Banner">
 </p>
----
+
 
 ## ⚡ Tech Stack
 

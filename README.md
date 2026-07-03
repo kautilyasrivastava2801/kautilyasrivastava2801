@@ -1,4 +1,6 @@
-![Demon Slayer Banner](https://media.tenor.com/D_bTjL76z1kAAAAd/demon-slayer-akaza.gif)
+<p align="center">
+  <img src="demon-slayer-akaza.gif" width="100%" alt="Demon Slayer Banner">
+</p>
 ---
 
 ## ⚡ Tech Stack

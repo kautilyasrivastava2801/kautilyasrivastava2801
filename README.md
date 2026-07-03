@@ -12,16 +12,6 @@
 
 ---
 
-# 👋 Hi, I'm Kautilya Srivastava
-
-### 🧠 AI • 🤖 Robotics • ⚛️ Nanotech
-
-🚀 Building intelligent systems at the intersection of science & technology  
-📊 Exploring deep learning, computer vision & scientific computing  
-🎯 Mission: Innovate, Research, and Create Future-Tech Solutions  
-
----
-
 ## ⚡ Tech Stack
 
 ### 🧑‍💻 Languages
@@ -36,6 +26,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-lightpink?logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
+![BioPython](https://img.shields.io/badge/BioPython-yellow?logo=python&logoColor=blue)
+![SciPy](https://img.shields.io/badge/SciPy-blue?logo=scipy&logoColor=white)
 
 ---
 
